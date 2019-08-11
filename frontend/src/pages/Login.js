@@ -29,7 +29,6 @@ export default function Login({ history }) {
                 onChange={e => setUsername(e.target.value)}
                 />
                 <button type="submit">Enviar</button>
-                <button type="submit">Enviar</button>
             </form>
         </div>
     );
